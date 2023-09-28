@@ -1,1 +1,0 @@
-# Detecção de Faces - FIAP
